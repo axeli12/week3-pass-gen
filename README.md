@@ -12,4 +12,4 @@ The usage for this app is people need to come and generate a new password that t
  ![chose a number](./assets/images/chose-a-number.png "Choose a number")
 
 ## License 
-None
+None   
