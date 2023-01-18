@@ -9,7 +9,7 @@ This webapp is a random password generator. So what this will do is when the pag
 The usage for this app is people need to come and generate a new password that they will know will be unique. There are some screenshots of the project and what it looks like at each step that there is.
 
     ```md
-    ![screenshot-1] (Assets/image/chose a number.png)
+    ![screenshot-1] (./assets/image/chose a number.png)
     ```
 
 ## License 
