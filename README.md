@@ -8,17 +8,30 @@ https://axeli12.github.io/week3-pass-gen/
 ## Usage 
 The usage for this app is people need to come and generate a new password that they will know will be unique. There are some screenshots of the project and what it looks like at each step that there is.
 
-![chose a number](assets/images/chose-a-number.png) choose a number
+<img width="400" alt="chose-a-number" src="https://user-images.githubusercontent.com/103465115/213317206-ce6b1517-45d9-4875-80bb-92f11ce493ed.png">
 
-![after not selceting](assets/images/after%20not%20slescting.jpg) not selecting anything
+choose a number 
 
-![choose a if you want a lower case](assets/images/lowercase.png) choose if you want a lower case 
 
-![choose a if you want a upper case](assets/images/uppercase.png) choose if you want a upper case
+<img width="400" alt="after not slescting" src="https://user-images.githubusercontent.com/103465115/213317371-b3aff439-000a-43ff-9c6e-07a51706fe4c.png">
 
-![choose if you want special characters](assets/images/special%20character.png) choose if you want special character 
+after not selection
 
-![choose if you want numbers](assets/images/contain%20number.png) choose if you want numbers
+<img width="400" alt="lowercase" src="https://user-images.githubusercontent.com/103465115/213317457-c252c5f1-8d9d-4d5c-bae0-b14f1502f121.png">
+
+if you want lowercase letters
+
+<img width="400" alt="uppercase" src="https://user-images.githubusercontent.com/103465115/213317539-199828b3-c720-4460-a63c-39e1194c16a5.png">
+
+if you want upper case letters
+
+<img width="400" alt="special character" src="https://user-images.githubusercontent.com/103465115/213317592-171f55d6-1d48-4e7e-86cb-b25e155453d9.png">
+
+if you want special characters
+
+<img width="400" alt="contain number" src="https://user-images.githubusercontent.com/103465115/213317958-ce036de5-db9f-4db2-8224-639b13cedaa9.png">
+
+if you want numbers
 
 ## License 
 None   
