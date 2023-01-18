@@ -8,7 +8,17 @@ This webapp is a random password generator. So what this will do is when the pag
 ## Usage 
 The usage for this app is people need to come and generate a new password that they will know will be unique. There are some screenshots of the project and what it looks like at each step that there is.
 
-![chose a number](assets/images/chose-a-number.png 'choose a number')
+![chose a number](assets/images/chose-a-number.png) choose a number
+
+![after not selceting](assets/images/after%20not%20slescting.jpg) not selecting anything
+
+![choose a if you want a lower case](assets/images/lowercase.png) choose if you want a lower case 
+
+![choose a if you want a upper case](assets/images/uppercase.png) choose if you want a upper case
+
+![choose if you want special characters](assets/images/special%20character.png) choose if you want special character 
+
+![choose if you want numbers](assets/images/contain%20number.png) choose if you want numbers
 
 ## License 
 None   
